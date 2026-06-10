@@ -25,6 +25,6 @@ Character generator for writers, artists and game masters. Choose gender — and
 3. Нажми «Сгенерировать предысторию» / Click "Generate backstory"
 4. Нажми «Сгенерировать костюм» / Click "Generate outfit"
 
-Все данные можно обновлять по отдельности в любом порядке.
+
 
 
